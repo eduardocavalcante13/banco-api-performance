@@ -142,7 +142,7 @@ k6 version
 Clone o projeto utilizando o comando:
 
 ```bash
-git clone https://github.com/Eduardo101323/banco-api-performance.git
+git clone https://github.com/eduardocavalcante13/banco-api-performance.git
 ```
 
 Entre na pasta do projeto:
